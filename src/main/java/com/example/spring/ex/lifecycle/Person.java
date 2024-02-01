@@ -1,6 +1,6 @@
 package com.example.spring.ex.lifecycle;
 
-import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar.String;
+
 
 public class Person {
 
